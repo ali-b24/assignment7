@@ -1,0 +1,18 @@
+apple,sib
+orange,narenji
+book,ketab
+my,maleman
+green,sabz
+I,man
+have,daram
+an,yek
+am,hastam
+this,in
+is,hast
+horse,asb
+store,maghaze
+bag,kif
+keyboard,keyboard
+a,yek
+an , yek
+banana,moz
